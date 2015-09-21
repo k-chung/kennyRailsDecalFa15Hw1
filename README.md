@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rails Decal Fall 2015 Homework 1
 This homework assignment involves writing scripts in ruby in order to get a feel for the Ruby
 programming language.
@@ -67,3 +68,6 @@ ruby autograder.rb
 ```
 
 If 'All functions work' appears in your terminal it means it passed our autograder.  We do go over
+=======
+# kennyRailsDecalFa15Hw1
+>>>>>>> 95cc0f5870f01d4ecee9978e7b230532a671ebe5
